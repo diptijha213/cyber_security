@@ -32,8 +32,3 @@ The project consists of the following files:
 ## Compatibility ##
 This Caesar cipher encryption/decryption tool should work on most modern web browsers that support JavaScript. No additional libraries or frameworks are required.
 
-## License ##
-This project is licensed under the MIT License. Feel free to modify and use the code as per your needs.
-
-## Acknowledgments ##
-This project was inspired by the concept of the Caesar cipher and was created for educational purposes.
